@@ -1,1 +1,2 @@
-Тут находится программа на питоне
+We have a python code here
+another things to write
